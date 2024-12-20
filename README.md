@@ -4,3 +4,10 @@ using Salesforce. The primary objective of this project was to streamline the ad
 enabling admissions staff to manage applications, inquiries, and case management efficiently. The CRM application integrates and automates key processes, enhancing
 operational efficiency and optimizing the workflow. This solution not only improves the user experience for students but also empowers the institution's staff to deliver timely
 and effective services, thereby supporting EduConsultPro's mission to offer exceptional educational opportunities.
+
+Author
+Name : Rajavarapu Sreeja
+Email: rsreeja2487@gmail.com
+
+
+
